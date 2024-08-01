@@ -1,0 +1,10 @@
+# Ignore data files
+/data/raw/
+/data/processed/
+/models/
+/__pycache__/
+/*.ipynb_checkpoints
+
+# Ignore virtual environments
+.venv/
+env/
